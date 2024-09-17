@@ -34,7 +34,7 @@
     "prettier": "^3.3.2",
     "ts-node": "^10.0.0",
     "typescript": "^5.5.3",
-    "vite": "^5.0.12"
+    "vite": "^5.3.6"
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.1"
