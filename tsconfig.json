@@ -11,5 +11,8 @@
     "outDir": "dist",
     "moduleResolution": "node",
     "resolveJsonModule": true
-  }
+  },
+  "include": [
+    "nodescripts/createWebGPUProxies.ts",
+  ]
 }

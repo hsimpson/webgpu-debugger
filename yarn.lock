@@ -817,6 +817,11 @@
   dependencies:
     "@types/node" "*"
 
+"@types/webidl2@^24.4.3":
+  version "24.4.3"
+  resolved "https://registry.yarnpkg.com/@types/webidl2/-/webidl2-24.4.3.tgz#548fc8ab0720d0db732cc3dc426ff4101e3b24ba"
+  integrity sha512-Rn7VaRM3TmzA3nPgwSOqC8MGzzY2W8J7f0IPEf2g5Ga0e6jCsuLRHF+O0gywp3gh37IE/quCWCbNDTwAdKeFKw==
+
 "@types/yauzl@^2.9.1":
   version "2.10.3"
   resolved "https://registry.yarnpkg.com/@types/yauzl/-/yauzl-2.10.3.tgz#e9b2808b4f109504a03cda958259876f61017999"
@@ -4713,6 +4718,11 @@ webidl-conversions@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-3.0.1.tgz#24534275e2a7bc6be7bc86611cc16ae0a5654871"
   integrity sha512-2JAn3z8AR6rjK8Sm8orRC0h/bcl/DqL7tRPdGZ4I1CjdF+EaMLmYxBHyXuKL849eucPFhvBoxMsflfOb8kxaeQ==
+
+webidl2@^24.4.1:
+  version "24.4.1"
+  resolved "https://registry.yarnpkg.com/webidl2/-/webidl2-24.4.1.tgz#6c5d6ce24cf938e966673aca58704d979db4bc98"
+  integrity sha512-cPToqvZlxTAlaMucZyU28XtFLJz3XPdTdIWK/r3IaP1jfkjqne3OTniJS8DZqfzee1aBUQn80d6s2vYert50kg==
 
 whatwg-url@^5.0.0:
   version "5.0.0"
